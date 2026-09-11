@@ -1,6 +1,6 @@
 # Convert — Design-Inspiration Platform for Product Teams
 
-Live Application: **(https://convert-5.vercel.app/)]**
+Live Application: https://convert-5.vercel.app/
 
 ## 🚀 Project Overview
 Convert is a high-converting marketing site and optimized conversion funnel meticulously built for design-inspiration platforms targeting product and agency design teams. The platform structures a clean, conversion-focused layout that transforms abstract visual inspiration into actionable design workflows.
